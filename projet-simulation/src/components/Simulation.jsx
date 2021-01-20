@@ -31,5 +31,4 @@ class Simulation extends Component {
     }
 
 }
-
-export default Simulation
+ export default Simulation
